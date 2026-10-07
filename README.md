@@ -1,5 +1,5 @@
 ## Hi!
-I'm James, a CS Major @ The University of Pittsburgh, and a teaching assistant for intermediate program. I've previously worked as a software engineer
+I'm James, a CS Major @ The University of Pittsburgh, and also a teaching assistant. I've previously worked as a software engineer
 intern in the PittCSC Devlab. I'm interested in FinTech and Backend engineering, and I like to dabble in music related projects!
 
 ## My Tech Stack:
